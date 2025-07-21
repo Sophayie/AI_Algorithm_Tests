@@ -43,7 +43,6 @@ Je recommande de le visualiser sur google colab pour optenir une meilleure visua
 
 ---
 
-## Réalisé par
-Sophie Mercier 
+## Réalisé par Sophie Mercier 
 ---
 
