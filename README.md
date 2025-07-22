@@ -1,38 +1,38 @@
-# Test d'algorithmes de classification
+# Classification Algorithm Testing
 
-Ce projet explore et compare plusieurs algorithmes d’apprentissage supervisé classiques à l’aide de jeux de données (Iris, MNIST, PlantVillage, etc.).
+This project explores and compares several classic supervised learning algorithms using datasets such as Iris, MNIST, and PlantVillage.
 
- L’objectif est d’analyser la performance de chaque algorithme en fonction de différents paramètres:  
+The goal is to analyze the performance of each algorithm based on various metrics:  
 - **Accuracy**
 - **Precision**
 - **Recall**
 - **F1-score**
-- **Temps d’exécution**
-- **Utilisation mémoire**
+- **Execution time**
+- **Memory usage**
 
 ---
 
-## Contenu
+## Contents
 
-- Chargement de jeux de données (standardisés et normalisés)
-- Entraînement de modèles :  
+- Loading and preprocessing datasets (standardization and normalization)
+- Training models:  
   - `K-Nearest Neighbors`  
   - `Support Vector Machine (SVM)`  
   - `Decision Tree`  
   - `Random Forest`  
-- Évaluation des performances
-- Comparaison visuelle avec graphiques
+- Performance evaluation
+- Visual comparison through graphs
 
 ---
 
-## Ouvrir dans Google Colab
+## Open in Google Colab
 
-[![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QMA-vseYl89fPgQMO74F95Fxr3CLPAD5)
-Je recommande de le visualiser sur google colab pour optenir une meilleure visualisation de l'évaluation des performances.
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QMA-vseYl89fPgQMO74F95Fxr3CLPAD5)  
+It is recommended to run the notebook in Google Colab for better visualization of performance results.
 
 ---
 
-## Technologies utilisées
+## Technologies Used
 
 - Python 3
 - Scikit-learn
@@ -43,6 +43,6 @@ Je recommande de le visualiser sur google colab pour optenir une meilleure visua
 
 ---
 
-## Réalisé par Sophie Mercier 
----
+## Created by Sophie Mercier
+
 
